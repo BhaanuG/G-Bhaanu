@@ -1,8 +1,7 @@
 
   # G Bhaanu
 
-  This is a code bundle for G Bhaanu. The original project is available at https://www.figma.com/design/gTjn5IHcc8UW7sOXvvymU2/G-Bhaanu.
-
+  This is a code bundle for G Bhaanu. The portfolio build for me.
   ## Running the code
 
   Run `npm i` to install the dependencies.
